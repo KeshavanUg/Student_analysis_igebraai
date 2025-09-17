@@ -1,0 +1,122 @@
+[
+    {
+        "student_id":  "1",
+        "name":  "John Doe",
+        "class":  "10",
+        "comprehension":  "78",
+        "attention":  "85",
+        "focus":  "80",
+        "retention":  "75",
+        "assessment_score":  "82",
+        "engagement_time":  "120",
+        "persona":  "2"
+    },
+    {
+        "student_id":  "2",
+        "name":  "Jane Smith",
+        "class":  "10",
+        "comprehension":  "88",
+        "attention":  "90",
+        "focus":  "85",
+        "retention":  "80",
+        "assessment_score":  "90",
+        "engagement_time":  "150",
+        "persona":  "0"
+    },
+    {
+        "student_id":  "3",
+        "name":  "Sam Lee",
+        "class":  "9",
+        "comprehension":  "65",
+        "attention":  "70",
+        "focus":  "68",
+        "retention":  "60",
+        "assessment_score":  "72",
+        "engagement_time":  "100",
+        "persona":  "1"
+    },
+    {
+        "student_id":  "4",
+        "name":  "Alice Brown",
+        "class":  "9",
+        "comprehension":  "92",
+        "attention":  "95",
+        "focus":  "90",
+        "retention":  "88",
+        "assessment_score":  "95",
+        "engagement_time":  "180",
+        "persona":  "0"
+    },
+    {
+        "student_id":  "5",
+        "name":  "Tom Clark",
+        "class":  "8",
+        "comprehension":  "55",
+        "attention":  "60",
+        "focus":  "58",
+        "retention":  "55",
+        "assessment_score":  "65",
+        "engagement_time":  "90",
+        "persona":  "1"
+    },
+    {
+        "student_id":  "6",
+        "name":  "Lisa Ray",
+        "class":  "8",
+        "comprehension":  "80",
+        "attention":  "82",
+        "focus":  "78",
+        "retention":  "75",
+        "assessment_score":  "85",
+        "engagement_time":  "130",
+        "persona":  "2"
+    },
+    {
+        "student_id":  "7",
+        "name":  "Mark Kim",
+        "class":  "10",
+        "comprehension":  "70",
+        "attention":  "75",
+        "focus":  "72",
+        "retention":  "70",
+        "assessment_score":  "78",
+        "engagement_time":  "110",
+        "persona":  "2"
+    },
+    {
+        "student_id":  "8",
+        "name":  "Sara Park",
+        "class":  "9",
+        "comprehension":  "85",
+        "attention":  "88",
+        "focus":  "84",
+        "retention":  "80",
+        "assessment_score":  "88",
+        "engagement_time":  "160",
+        "persona":  "0"
+    },
+    {
+        "student_id":  "9",
+        "name":  "Paul Singh",
+        "class":  "8",
+        "comprehension":  "60",
+        "attention":  "65",
+        "focus":  "62",
+        "retention":  "60",
+        "assessment_score":  "70",
+        "engagement_time":  "95",
+        "persona":  "1"
+    },
+    {
+        "student_id":  "10",
+        "name":  "Nina Patel",
+        "class":  "10",
+        "comprehension":  "95",
+        "attention":  "98",
+        "focus":  "96",
+        "retention":  "92",
+        "assessment_score":  "98",
+        "engagement_time":  "200",
+        "persona":  "0"
+    }
+]

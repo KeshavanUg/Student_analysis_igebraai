@@ -1,0 +1,11 @@
+student_id,name,class,comprehension,attention,focus,retention,assessment_score,engagement_time,persona
+1,John Doe,10,78,85,80,75,82,120,2
+2,Jane Smith,10,88,90,85,80,90,150,0
+3,Sam Lee,9,65,70,68,60,72,100,1
+4,Alice Brown,9,92,95,90,88,95,180,0
+5,Tom Clark,8,55,60,58,55,65,90,1
+6,Lisa Ray,8,80,82,78,75,85,130,2
+7,Mark Kim,10,70,75,72,70,78,110,2
+8,Sara Park,9,85,88,84,80,88,160,0
+9,Paul Singh,8,60,65,62,60,70,95,1
+10,Nina Patel,10,95,98,96,92,98,200,0
